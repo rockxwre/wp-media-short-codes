@@ -1,14 +1,14 @@
 <?php
 
 /*
-Plugin Name :  Media short-codes
-Version     : 1.0
-Description : Short codes to embed Odysee, Podbean, SoundCloud and YouTube media.
-Author      : Ramon Rockx
-Author URI  : mailto:ramonrockx@gmail.com
-License     : GPLv2 or later
-License URI : https://www.gnu.org/licenses/gpl-2.0.html
-Text Domain : media-short-codes
+Plugin Name: Media short-codes
+Version:     1.0
+Description: Short codes to embed Odysee, Podbean, SoundCloud and YouTube media.
+Author:      Ramon Rockx
+Author URI:  mailto:ramonrockx@gmail.com
+License:     GPLv2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: wp-media-short-codes
 */
 
 function media_short_codes_init()
